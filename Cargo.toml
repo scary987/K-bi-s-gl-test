@@ -1,0 +1,11 @@
+[package]
+name = "gl-test"
+version = "0.1.0"
+authors = ["Schyrsivochter <andreas.kuebrich@kuebrich.de>"]
+edition = "2018"
+
+
+[dependencies]
+glutin = "0.24.1"
+gl = "*"
+c_str_macro = "*"
